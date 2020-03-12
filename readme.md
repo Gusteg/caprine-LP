@@ -1,10 +1,10 @@
-# Speed Typing Game
+# Sample Landing Page
 
 Sample landing page.
 
 ## Live preview
 
-[Later]()
+[CLICK!!!](https://gusteg.github.io/caprine-LP/)
 
 ## Develop locally
 
