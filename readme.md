@@ -4,7 +4,9 @@ Sample landing page.
 
 ## Live preview
 
-[CLICK!!!](https://gusteg.github.io/caprine-LP/)
+~~[CLICK!]~~
+
+GH no longer supports free preview
 
 ## Develop locally
 
@@ -17,7 +19,7 @@ Sample landing page.
     ```
     npx grunt
     ```
-    
+
 ## License
 
 This project is licensed under the MIT License.
