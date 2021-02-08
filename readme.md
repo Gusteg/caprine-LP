@@ -15,12 +15,9 @@ Sample landing page.
     ```
 2. 
     ```
-    grunt
+    npx grunt
     ```
-
-3. In your browser, navigate to: [http://localhost:2000/](http://localhost:2000/)
-
-
+    
 ## License
 
 This project is licensed under the MIT License.
