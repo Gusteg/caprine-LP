@@ -90,5 +90,5 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-contrib-imagemin');
 
 
-    grunt.registerTask('default', ['express', 'imagemin', 'less:website', 'cssmin:website', 'uglify:website', 'htmlmin:website', 'watch']);
+    grunt.registerTask('default', ['imagemin', 'less:website', 'cssmin:website', 'uglify:website', 'htmlmin:website', 'watch']);
 };
